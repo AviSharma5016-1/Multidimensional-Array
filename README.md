@@ -11,7 +11,7 @@
 
 ### Multidimensional Arrays
 A multidimensional array is essentially an array of arrays, allowing data to be stored in a tabular format with rows and columns, commonly referred to as matrices.
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d013286e-8aa6-496f-986a-0c5bcc749994" />
+<img width="480" height="480" alt="Image" src="https://github.com/user-attachments/assets/d013286e-8aa6-496f-986a-0c5bcc749994" />
 
 - **Declaration:**  
   In C++, a two-dimensional array is declared as `data_type arrayName[rows][columns];`  
